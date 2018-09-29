@@ -1,0 +1,24 @@
+Min Latency(us): 94
+Max Latency(us): 4230
+Average Latency(us): 180.773986
+0% rank Latency(us): 94
+5% rank Latency(us): 143
+10% rank Latency(us): 151
+15% rank Latency(us): 155
+20% rank Latency(us): 159
+25% rank Latency(us): 164
+30% rank Latency(us): 166
+35% rank Latency(us): 169
+40% rank Latency(us): 172
+45% rank Latency(us): 176
+50% rank Latency(us): 179
+55% rank Latency(us): 182
+60% rank Latency(us): 186
+65% rank Latency(us): 190
+70% rank Latency(us): 193
+75% rank Latency(us): 196
+80% rank Latency(us): 203
+85% rank Latency(us): 211
+90% rank Latency(us): 216
+95% rank Latency(us): 221
+Throughput: 5530.113500
